@@ -1,0 +1,14 @@
+.images{
+    padding: 4em;
+}
+
+.images>span{
+    font-size: 2em;
+    padding: 2em;
+    font-weight: bold;
+    letter-spacing: .04em;
+}
+
+a{
+    font-style: italic;
+}
