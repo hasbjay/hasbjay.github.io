@@ -1,3 +1,7 @@
+body{
+    padding: 1em;
+}
+
 .images{
     padding: 4em;
 }
@@ -11,4 +15,12 @@
 
 a{
     font-style: italic;
+}
+
+p{
+    color: black;
+}
+
+p>a{
+    text-decoration: none;
 }
