@@ -24,3 +24,12 @@ p{
 p>a{
     text-decoration: none;
 }
+
+cite>a{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+q{
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
