@@ -16,8 +16,8 @@ body{
 
 }
 
-.images>span{
-    font-size: 2em;
+.images>p{
+    font-size: 1.5em;
     padding: 2em;
     font-weight: bold;
     letter-spacing: .04em;
