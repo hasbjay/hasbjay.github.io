@@ -1,4 +1,10 @@
+*{
+    overflow-x: hidden !important;
+    position: relative;
+}
+
 body{
+    padding: 3em;
     display: flex;
     flex-direction: column;
     align-items: center;
