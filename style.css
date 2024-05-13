@@ -56,3 +56,7 @@ q{
     margin-right: auto;
     max-width: 20em;
 }
+
+footer a{
+    text-decoration: none;
+}
