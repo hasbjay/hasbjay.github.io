@@ -34,6 +34,7 @@ body{
 
 .proof {
     width: 100%;
+    padding-top: 3px;
 }
 
 .images>p{
