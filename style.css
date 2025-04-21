@@ -64,6 +64,10 @@ q{
     max-width: 20em;
 }
 
+.to_center{
+    text-align: center;
+}
+
 footer a{
     text-decoration: none;
 }
