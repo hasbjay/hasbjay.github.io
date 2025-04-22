@@ -18,6 +18,10 @@ body{
     font-size: 1px;
 }
 
+h2 {
+    text-align: center;
+}
+
 .images{
     align-items: center;
     align-content: center;
